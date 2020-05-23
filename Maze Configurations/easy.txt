@@ -1,0 +1,13 @@
+room-1,0,1,6,3,1,0
+room-2,1,0,2,5,0,1
+room-3,2,7,3,4,1,0
+room-4,6,5,4,0,0,1
+passage-1,0,1,2
+passage-2,0,2,3
+passage-3,0,3,1
+passage-4,0,3,4
+passage-5,0,4,2
+passage-6,0,1,4
+passage-7,1,0,0
+item-1,treasure,Coin Purse,50,0,0
+item-1,threat,Zombie,0,Smash Brain,Smash Heart

@@ -1,0 +1,17 @@
+room-1,0,1,0,3,1,1
+room-2,0,2,4,1,0,2
+room-3,4,7,8,5,2,0
+room-4,5,6,2,3,1,2
+room-5,7,0,0,6,0,1
+passage-1,0,1,2
+passage-2,0,2,4
+passage-3,0,1,4
+passage-4,0,2,3
+passage-5,0,3,4
+passage-6,0,4,5
+passage-7,0,3,5
+passage-8,1,0,0
+item-1,treasure,Coin Purse,50,0,0
+item-2,treasure,Gold Bar,150,0,0
+item-1,threat,Vampire,0,Throw Garlic,Throw Onion
+item-2,threat,Zombie,0,Smash Brain,Smash Heart
